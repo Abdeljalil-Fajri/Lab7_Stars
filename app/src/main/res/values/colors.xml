@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo">#3F51B5</color>
+    <color name="indigo_dark">#283593</color>
+    <color name="indigo_light">#7986CB</color>
+    <color name="amber">#FFC107</color>
+    <color name="amber_dark">#FFA000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_light">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>

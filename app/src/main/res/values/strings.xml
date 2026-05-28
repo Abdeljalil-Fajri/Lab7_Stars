@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarVault</string>
+    <string name="search_hint">Search celebrities…</string>
+    <string name="share_title">Share StarVault</string>
+    <string name="share_text">Check out StarVault – discover and rate your favorite celebrities!</string>
+    <string name="about_title">About StarVault</string>
+    <string name="about_message">StarVault v1.0\n\nA gallery of your favorite celebrities.\nRate, search, and manage your collection.</string>
+    <string name="add_celebrity">Add Celebrity</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
